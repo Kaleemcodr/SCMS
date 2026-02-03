@@ -1,0 +1,8 @@
+{
+  "name": "Society Query Hub",
+  "description": "A comprehensive community management application for residents to report issues with voice, text, and photos, and for admins to manage the resolution workflow with real-time status updates.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
